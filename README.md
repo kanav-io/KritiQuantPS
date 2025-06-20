@@ -45,6 +45,8 @@ Performance Metrics
 • Sortino Ratio: 5.26  
 • 3-Month Returns: 327.42%
 
+
+
 Statistical Validation
 ----------------------
 • T-test Statistic: 3.86 (P-value: 0.00012, significant at 0.05 level)  
